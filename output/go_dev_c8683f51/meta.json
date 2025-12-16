@@ -1,0 +1,10 @@
+{
+  "url": "https://go.dev/",
+  "out_dir": "output\\go_dev_c8683f51",
+  "http_status": 200,
+  "http_status_text": "200 OK",
+  "fetch_elapsed_ms": 541,
+  "screenshot_ok": true,
+  "links_found": 96,
+  "timestamp_utc": "2025-12-16T18:14:16Z"
+}

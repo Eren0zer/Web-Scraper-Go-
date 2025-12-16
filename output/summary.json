@@ -1,0 +1,155 @@
+[
+  {
+    "url": "https://example.com/",
+    "out_dir": "output\\example_com_b559c7ed",
+    "http_status": 200,
+    "http_status_text": "200 OK",
+    "fetch_elapsed_ms": 857,
+    "screenshot_ok": true,
+    "links_found": 1,
+    "timestamp_utc": "2025-12-16T18:13:27Z"
+  },
+  {
+    "url": "https://httpbin.org/html",
+    "out_dir": "output\\httpbin_org_07f8c2be",
+    "http_status": 503,
+    "http_status_text": "503 Service Unavailable",
+    "fetch_elapsed_ms": 1538,
+    "screenshot_ok": false,
+    "links_found": 0,
+    "error": "HTTP hata: 503 Service Unavailable",
+    "timestamp_utc": "2025-12-16T18:13:29Z"
+  },
+  {
+    "url": "https://www.iana.org/domains/reserved",
+    "out_dir": "output\\www_iana_org_df3f5d90",
+    "http_status": 200,
+    "http_status_text": "200 OK",
+    "fetch_elapsed_ms": 3471,
+    "screenshot_ok": false,
+    "links_found": 54,
+    "error": "screenshot alınamadı: context deadline exceeded",
+    "timestamp_utc": "2025-12-16T18:13:31Z"
+  },
+  {
+    "url": "https://www.rfc-editor.org/",
+    "out_dir": "output\\www_rfc-editor_org_7859fed8",
+    "http_status": 200,
+    "http_status_text": "200 OK",
+    "fetch_elapsed_ms": 1093,
+    "screenshot_ok": true,
+    "links_found": 71,
+    "timestamp_utc": "2025-12-16T18:13:56Z"
+  },
+  {
+    "url": "https://www.ietf.org/",
+    "out_dir": "output\\www_ietf_org_59705406",
+    "http_status": 200,
+    "http_status_text": "200 OK",
+    "fetch_elapsed_ms": 1282,
+    "screenshot_ok": true,
+    "links_found": 121,
+    "timestamp_utc": "2025-12-16T18:14:08Z"
+  },
+  {
+    "url": "https://go.dev/",
+    "out_dir": "output\\go_dev_c8683f51",
+    "http_status": 200,
+    "http_status_text": "200 OK",
+    "fetch_elapsed_ms": 541,
+    "screenshot_ok": true,
+    "links_found": 96,
+    "timestamp_utc": "2025-12-16T18:14:16Z"
+  },
+  {
+    "url": "https://pkg.go.dev/",
+    "out_dir": "output\\pkg_go_dev_edcab886",
+    "http_status": 200,
+    "http_status_text": "200 OK",
+    "fetch_elapsed_ms": 541,
+    "screenshot_ok": true,
+    "links_found": 54,
+    "timestamp_utc": "2025-12-16T18:14:25Z"
+  },
+  {
+    "url": "https://docs.python.org/tr/3/",
+    "out_dir": "output\\docs_python_org_32069ce6",
+    "http_status": 200,
+    "http_status_text": "200 OK",
+    "fetch_elapsed_ms": 579,
+    "screenshot_ok": true,
+    "links_found": 13,
+    "timestamp_utc": "2025-12-16T18:14:29Z"
+  },
+  {
+    "url": "https://git-scm.com/book/tr/v2",
+    "out_dir": "output\\git-scm_com_2b74782b",
+    "http_status": 200,
+    "http_status_text": "200 OK",
+    "fetch_elapsed_ms": 2351,
+    "screenshot_ok": true,
+    "links_found": 58,
+    "timestamp_utc": "2025-12-16T18:14:33Z"
+  },
+  {
+    "url": "https://developer.mozilla.org/tr/",
+    "out_dir": "output\\developer_mozilla_org_7174ebed",
+    "http_status": 200,
+    "http_status_text": "200 OK",
+    "fetch_elapsed_ms": 515,
+    "screenshot_ok": true,
+    "links_found": 165,
+    "timestamp_utc": "2025-12-16T18:14:38Z"
+  },
+  {
+    "url": "https://learn.microsoft.com/tr-tr/",
+    "out_dir": "output\\learn_microsoft_com_e05dd6ac",
+    "http_status": 200,
+    "http_status_text": "200 OK",
+    "fetch_elapsed_ms": 626,
+    "screenshot_ok": true,
+    "links_found": 11,
+    "timestamp_utc": "2025-12-16T18:14:42Z"
+  },
+  {
+    "url": "https://tr.wikipedia.org/wiki/Anasayfa",
+    "out_dir": "output\\tr_wikipedia_org_8cc6359e",
+    "http_status": 200,
+    "http_status_text": "200 OK",
+    "fetch_elapsed_ms": 419,
+    "screenshot_ok": true,
+    "links_found": 35,
+    "timestamp_utc": "2025-12-16T18:14:49Z"
+  },
+  {
+    "url": "https://tr.wikipedia.org/wiki/Türkiye",
+    "out_dir": "output\\tr_wikipedia_org_794b8959",
+    "http_status": 200,
+    "http_status_text": "200 OK",
+    "fetch_elapsed_ms": 275,
+    "screenshot_ok": false,
+    "links_found": 97,
+    "error": "screenshot alınamadı: context deadline exceeded",
+    "timestamp_utc": "2025-12-16T18:14:53Z"
+  },
+  {
+    "url": "https://tr.wiktionary.org/wiki/Vikis%C3%B6zl%C3%BCk:Anasayfa",
+    "out_dir": "output\\tr_wiktionary_org_079429c4",
+    "http_status": 200,
+    "http_status_text": "200 OK",
+    "fetch_elapsed_ms": 3005,
+    "screenshot_ok": true,
+    "links_found": 14,
+    "timestamp_utc": "2025-12-16T18:15:18Z"
+  },
+  {
+    "url": "https://tr.wikiquote.org/wiki/Anasayfa",
+    "out_dir": "output\\tr_wikiquote_org_b11f9fdc",
+    "http_status": 200,
+    "http_status_text": "200 OK",
+    "fetch_elapsed_ms": 596,
+    "screenshot_ok": true,
+    "links_found": 12,
+    "timestamp_utc": "2025-12-16T18:15:26Z"
+  }
+]

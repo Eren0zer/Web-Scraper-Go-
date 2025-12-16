@@ -1,0 +1,12 @@
+https://creativecommons.org/licenses/by-sa/4.0/deed.tr
+https://meta.wikimedia.org
+https://tr.wikiquote.org/static/favicon/wikiquote.ico
+https://tr.wikiquote.org/w/api.php?action=rsd
+https://tr.wikiquote.org/w/index.php?title=%C3%96zel:SonDe%C4%9Fi%C5%9Fiklikler&amp;feed=atom
+https://tr.wikiquote.org/w/load.php?lang=tr&amp;modules=ext.flaggedRevs.basic%7Cext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022
+https://tr.wikiquote.org/w/load.php?lang=tr&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022
+https://tr.wikiquote.org/w/rest.php/v1/search
+https://tr.wikiquote.org/wiki/Anasayfa
+https://tr.wikiquote.org/wiki/auth.wikimedia.org
+https://tr.wikiquote.org/wiki/href=
+https://upload.wikimedia.org

@@ -1,0 +1,10 @@
+{
+  "url": "https://core-keeper.fandom.com/wiki/Core_Keeper_Wiki",
+  "out_dir": "output\\core-keeper_fandom_com_60ac2fdf",
+  "http_status": 200,
+  "http_status_text": "200 OK",
+  "fetch_elapsed_ms": 513,
+  "screenshot_ok": true,
+  "links_found": 221,
+  "timestamp_utc": "2025-12-16T17:58:39Z"
+}

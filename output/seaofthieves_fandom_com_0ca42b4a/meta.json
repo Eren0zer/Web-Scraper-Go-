@@ -1,0 +1,10 @@
+{
+  "url": "https://seaofthieves.fandom.com/wiki/Sea_of_Thieves_Wiki",
+  "out_dir": "output\\seaofthieves_fandom_com_0ca42b4a",
+  "http_status": 200,
+  "http_status_text": "200 OK",
+  "fetch_elapsed_ms": 3223,
+  "screenshot_ok": true,
+  "links_found": 2,
+  "timestamp_utc": "2025-12-16T17:57:31Z"
+}

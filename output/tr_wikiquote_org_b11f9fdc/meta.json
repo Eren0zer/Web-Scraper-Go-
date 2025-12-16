@@ -1,0 +1,10 @@
+{
+  "url": "https://tr.wikiquote.org/wiki/Anasayfa",
+  "out_dir": "output\\tr_wikiquote_org_b11f9fdc",
+  "http_status": 200,
+  "http_status_text": "200 OK",
+  "fetch_elapsed_ms": 596,
+  "screenshot_ok": true,
+  "links_found": 12,
+  "timestamp_utc": "2025-12-16T18:15:26Z"
+}

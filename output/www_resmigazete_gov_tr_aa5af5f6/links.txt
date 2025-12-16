@@ -1,0 +1,13 @@
+https://www.resmigazete.gov.tr/
+https://www.resmigazete.gov.tr/assets/img/favicon.ico
+https://www.resmigazete.gov.tr/assets/src/css/bootstrap.min.css
+https://www.resmigazete.gov.tr/assets/src/css/style.min.css?v=wzBT6JnnLWiy2mrBmYrIJLNWQrM-DDFmv4fG4IsFhH8
+https://www.resmigazete.gov.tr/assets/src/css/tempusdominus-bootstrap-4.min.css
+https://www.resmigazete.gov.tr/assets/vendors/datatables/Responsive-2.2.2/css/responsive.bootstrap4.min.css
+https://www.resmigazete.gov.tr/assets/vendors/datatables/Scroller-1.5.0/css/scroller.bootstrap4.min.css
+https://www.resmigazete.gov.tr/assets/vendors/datatables/dataTables.bootstrap4.min.css
+https://www.resmigazete.gov.tr/assets/vendors/fontawesome/css/all.min.css
+https://www.resmigazete.gov.tr/assets/vendors/fontawesome/css/v4-shims.min.css
+https://www.resmigazete.gov.tr/assets/vendors/rubikfonts/rubik.css
+https://www.resmigazete.gov.tr/formhelper/formhelper.min.css
+https://www.resmigazete.gov.tr/m-2

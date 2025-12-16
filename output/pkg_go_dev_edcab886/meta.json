@@ -1,0 +1,10 @@
+{
+  "url": "https://pkg.go.dev/",
+  "out_dir": "output\\pkg_go_dev_edcab886",
+  "http_status": 200,
+  "http_status_text": "200 OK",
+  "fetch_elapsed_ms": 541,
+  "screenshot_ok": true,
+  "links_found": 54,
+  "timestamp_utc": "2025-12-16T18:14:25Z"
+}

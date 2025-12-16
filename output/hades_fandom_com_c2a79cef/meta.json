@@ -1,0 +1,10 @@
+{
+  "url": "https://hades.fandom.com/wiki/Hades_Wiki",
+  "out_dir": "output\\hades_fandom_com_c2a79cef",
+  "http_status": 200,
+  "http_status_text": "200 OK",
+  "fetch_elapsed_ms": 880,
+  "screenshot_ok": true,
+  "links_found": 2,
+  "timestamp_utc": "2025-12-16T17:57:52Z"
+}

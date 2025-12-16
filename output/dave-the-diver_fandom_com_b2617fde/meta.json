@@ -1,0 +1,10 @@
+{
+  "url": "https://dave-the-diver.fandom.com/wiki/Dave_the_Diver_Wiki",
+  "out_dir": "output\\dave-the-diver_fandom_com_b2617fde",
+  "http_status": 200,
+  "http_status_text": "200 OK",
+  "fetch_elapsed_ms": 5096,
+  "screenshot_ok": true,
+  "links_found": 79,
+  "timestamp_utc": "2025-12-16T17:58:16Z"
+}

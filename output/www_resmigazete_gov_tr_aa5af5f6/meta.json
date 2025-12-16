@@ -1,0 +1,11 @@
+{
+  "url": "https://www.resmigazete.gov.tr/",
+  "out_dir": "output\\www_resmigazete_gov_tr_aa5af5f6",
+  "http_status": 200,
+  "http_status_text": "200 OK",
+  "fetch_elapsed_ms": 1539,
+  "screenshot_ok": false,
+  "links_found": 13,
+  "error": "screenshot alınamadı: context deadline exceeded",
+  "timestamp_utc": "2025-12-16T17:57:05Z"
+}

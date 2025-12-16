@@ -1,0 +1,14 @@
+https://creativecommons.org/licenses/by-sa/4.0/deed.tr
+https://meta.wikimedia.org
+https://tr.wiktionary.org/static/apple-touch/wiktionary.png
+https://tr.wiktionary.org/static/favicon/piece.ico
+https://tr.wiktionary.org/w/api.php?action=rsd
+https://tr.wiktionary.org/w/index.php?title=%C3%96zel:SonDe%C4%9Fi%C5%9Fiklikler&amp;feed=atom
+https://tr.wiktionary.org/w/load.php?lang=tr&amp;modules=ext.discussionTools.init.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cmediawiki.skinning.content.parsoid%7Cmediawiki.ui.button%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022
+https://tr.wiktionary.org/w/load.php?lang=tr&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022
+https://tr.wiktionary.org/w/rest.php/v1/search
+https://tr.wiktionary.org/wiki/%3E%3Ca%20rel=
+https://tr.wiktionary.org/wiki/Vikis%C3%B6zl%C3%BCk:Anasayfa
+https://tr.wiktionary.org/wiki/auth.wikimedia.org
+https://tr.wiktionary.org/wiki/href=
+https://upload.wikimedia.org

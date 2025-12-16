@@ -1,0 +1,17 @@
+https://bogazici.edu.tr/tr
+https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/css/all.min.css
+https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/css/lazy-loading.min.css
+https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/css/main.min.css
+https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/css/owl.carousel.min.css
+https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/css/owl.theme.default.min.css
+https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/css/plugins/accordion.css
+https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/css/plugins/animate.css
+https://mediastore.cc.bogazici.edu.tr/web/template/bogazici/css/plugins/fancybox.css
+https://mediastore.cc.bogazici.edu.tr/web/upload/site/1-bogazici-universitesi-favicon-1-20250502232221.ico
+https://www.boun.edu.tr/Uluslararas%C4%B1%20Konferanslar
+https://www.boun.edu.tr/_blank
+https://www.boun.edu.tr/container
+https://www.boun.edu.tr/link-item
+https://www.boun.edu.tr/tabindex=
+https://www.boun.edu.tr/target=
+https://www.boun.edu.tr/title=

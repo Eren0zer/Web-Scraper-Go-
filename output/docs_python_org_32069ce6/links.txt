@@ -1,0 +1,13 @@
+https://docs.python.org/3/index.html
+https://docs.python.org/tr/3/_static/classic.css?v=234b1a7c
+https://docs.python.org/tr/3/_static/opensearch.xml
+https://docs.python.org/tr/3/_static/py.svg
+https://docs.python.org/tr/3/_static/pydoctheme.css?v=4eb63a40
+https://docs.python.org/tr/3/_static/pydoctheme_dark.css
+https://docs.python.org/tr/3/_static/pygments.css?v=b86133f3
+https://docs.python.org/tr/3/_static/pygments_dark.css?v=5349f25f
+https://docs.python.org/tr/3/about.html
+https://docs.python.org/tr/3/copyright.html
+https://docs.python.org/tr/3/genindex.html
+https://docs.python.org/tr/3/search.html
+https://www.python.org/
